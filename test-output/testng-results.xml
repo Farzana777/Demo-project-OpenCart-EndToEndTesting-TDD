@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-22T12:02:20 MST" name="openCartSuite" finished-at="2023-11-22T12:03:08 MST" duration-ms="47713">
+  <suite started-at="2023-11-22T12:27:34 MST" name="openCartSuite" finished-at="2023-11-22T12:28:21 MST" duration-ms="47122">
     <groups>
     </groups>
-    <test started-at="2023-11-22T12:02:20 MST" name="openCartTest" finished-at="2023-11-22T12:03:08 MST" duration-ms="47713">
+    <test started-at="2023-11-22T12:27:34 MST" name="openCartTest" finished-at="2023-11-22T12:28:21 MST" duration-ms="47122">
       <class name="testCases.TC_002_EndToEndTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_002_EndToEndTest@cc43f62]" started-at="2023-11-22T12:02:21 MST" name="setup" finished-at="2023-11-22T12:02:24 MST" duration-ms="3766" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_002_EndToEndTest@cc43f62]" started-at="2023-11-22T12:27:34 MST" name="setup" finished-at="2023-11-22T12:27:38 MST" duration-ms="4041" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="endToendTest()[pri:0, instance:testCases.TC_002_EndToEndTest@cc43f62]" started-at="2023-11-22T12:02:24 MST" name="endToendTest" finished-at="2023-11-22T12:03:08 MST" duration-ms="43303" status="PASS">
+        <test-method signature="endToendTest()[pri:0, instance:testCases.TC_002_EndToEndTest@cc43f62]" started-at="2023-11-22T12:27:38 MST" name="endToendTest" finished-at="2023-11-22T12:28:20 MST" duration-ms="42470" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endToendTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_EndToEndTest@cc43f62]" started-at="2023-11-22T12:03:08 MST" name="tearDown" finished-at="2023-11-22T12:03:08 MST" duration-ms="247" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_EndToEndTest@cc43f62]" started-at="2023-11-22T12:28:20 MST" name="tearDown" finished-at="2023-11-22T12:28:21 MST" duration-ms="222" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
